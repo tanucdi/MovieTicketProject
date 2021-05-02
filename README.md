@@ -1,3 +1,19 @@
-# MovieTicketProject
+#BookYourMovieSeat in Python
 
-THIS PROJECT IS BASED ON THE OOP CONCEPT OF PYTHON.
+THE MAIN FEATURES OF THE CODE ARE -
+
+VERY WELL ERROR HANDLING.👍
+WHOLE CODE IS BASED ON OBJECT ORIENTED PROGRAMMING.
+In this project we are going to create a cinema of R rows and N seats per row.
+
+Then we can perform following operations:
+
+Show The Cinema.
+
+Book Your Seat.
+
+Show Statistics.
+
+Booked User Information and more.
+
+kindly watch the video for the complete description.
