@@ -2,7 +2,9 @@
 
 THE MAIN FEATURES OF THE CODE ARE -
 
+
 VERY WELL ERROR HANDLING.👍
+
 WHOLE CODE IS BASED ON OBJECT ORIENTED PROGRAMMING.
 In this project we are going to create a cinema of R rows and N seats per row.
 
